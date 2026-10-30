@@ -22,8 +22,6 @@ module.exports = {
     instagram: "https://instagram.com/roshanpreetsingh.3",
     portfolio: "https://roshandhiman-portfolio.vercel.app",
     email: "mailto:roshanpreetsinghdhiman@gmail.com",
-    // portfolio: "https://your-portfolio-url",
-    // resume: "https://link-to-your-resume.pdf",
   },
   email: "roshanpreetsinghdhiman@gmail.com",
 
