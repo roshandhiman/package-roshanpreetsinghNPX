@@ -1,0 +1,11 @@
+{
+  "name": "roshanpreetsingh",
+  "version": "1.0.0",
+  "description": "Roshanpreet Singh Dhiman's portfolio, as a terminal app. Run: npx roshanpreetsingh",
+  "bin": { "roshanpreetsingh": "bin/cli.js" },
+  "files": ["bin"],
+  "engines": { "node": ">=14" },
+  "keywords": ["portfolio", "terminal", "cli", "resume"],
+  "author": "Roshanpreet Singh Dhiman",
+  "license": "MIT"
+}
